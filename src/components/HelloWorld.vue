@@ -9,7 +9,7 @@ const count = ref(0)
 </script>
 
 <template>
-  <div class="w-[100px] h-[100px] bg-[red] text-[blue]">哈哈哈123</div>
+  <div class="w-[100px] h-[100px] bg-[red] text-[blue]">哈哈哈123333</div>
 </template>
 
 <style scoped>
